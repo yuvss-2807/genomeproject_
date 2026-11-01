@@ -151,5 +151,4 @@ def verify_audit_log(log_df):
 
 
 def train_local_model(df, features, target, epochs=300, learning_rate=0.03):
-    """
-    Educational
+   # Educational local linear-regression model
